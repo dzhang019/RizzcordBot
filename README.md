@@ -1,1 +1,1 @@
-# RizzcordBoth
+# RizzcordBot
